@@ -1,6 +1,6 @@
 ## Olá eu sou Gabriel
 
-- 🔭 Hoje trabalho como QA
+- 🔭 Atuando como QA
 - 🌱 Estudando python
  <div>
   <a href="https://github.com/Gabriel-Cavalcantte">
