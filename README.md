@@ -3,7 +3,7 @@
 - 🔭 Atuando como QA
 - 🌱 Estudando Python, Cypress e Robot Framework
 
-![Lo-fi Background](![Image](https://github.com/user-attachments/assets/53e23eda-60a3-4825-9548-9e878a0022ca))
+![Image](https://github.com/user-attachments/assets/53e23eda-60a3-4825-9548-9e878a0022ca)
 
 <div>
   <a href="https://github.com/Gabriel-Cavalcantte">
