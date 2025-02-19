@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou Gabriel!
 
 - 🔭 Atuando como QA
-- 🌱 Estudando Python, Cypress e Robot Framework
+- 🌱 Estudando, Cypress e Robot Framework
 
 ![Image](https://github.com/user-attachments/assets/53e23eda-60a3-4825-9548-9e878a0022ca)
 
