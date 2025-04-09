@@ -1,17 +1,6 @@
 # 👋 Olá, eu sou **Gabriel Cavalcante**!  
 ### **QA Engineer | Test Automation Specialist | Performance Testing**  
-![QA Sênior](https://img.shields.io/badge/QA-Sênior-orange)  
-🛠️ Principais Habilidades
-Testes Web/API: Cypress, Robot Framework
 
-Testes de Carga: k6
-CI/CD: GitHub Actions
-Metodologias Ágeis: Scrum, Kanban 
-
-## **🌱 Aprendendo Agora**  
-- [x] Cypress 
-- [ ] Kubernetes para testes  
-- [ ] Certificação CTFL  
 ![Image](https://github.com/user-attachments/assets/53e23eda-60a3-4825-9548-9e878a0022ca)
 
 <div style="display: flex; align-items: center; gap: 10px;">
