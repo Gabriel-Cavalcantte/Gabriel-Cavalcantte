@@ -1,7 +1,21 @@
-## 👋 Olá, eu sou Gabriel!
+# 👋 Olá, eu sou **Gabriel Cavalcante**!  
+### **QA Engineer | Test Automation Specialist | Performance Testing**  
+![QA Sênior](https://img.shields.io/badge/QA-Sênior-orange)  
+## **🛠️ Tecnologias & Habilidades**  
 
-- 🔭 Atuando como QA
-- 🌱 Estudando Cypress e Robot Framework
+### **🔍 Testes Automatizados**  
+- **Web & API Testing**: Cypress, Robot Framework, Postman, Newman  
+- **Performance Testing**: k6  
+- **BDD**: Cucumber, Gherkin
+
+- ### **📦 CI/CD & DevOps**  
+- GitHub Actions  
+- Integração contínua de testes em pipelines
+
+- ### **💡 Outras Competências**  
+- Metodologias Ágeis (Scrum, Kanban)  
+- Monitoramento com Grafana/Kibana  
+- Bancos de dados (SQL, MongoDB)  
 
 ![Image](https://github.com/user-attachments/assets/53e23eda-60a3-4825-9548-9e878a0022ca)
 
