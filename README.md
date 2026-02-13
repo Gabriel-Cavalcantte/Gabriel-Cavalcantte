@@ -4,12 +4,7 @@
 
 ![Image](https://github.com/user-attachments/assets/53e23eda-60a3-4825-9548-9e878a0022ca)
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/Gabriel-Cavalcantte">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Cavalcantte&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Cavalcantte&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
+
 
 <h2 align="center"> 🚀 Tecnologias e Ferramentas: </h2>
 
