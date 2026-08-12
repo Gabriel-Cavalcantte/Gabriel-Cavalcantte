@@ -29,11 +29,3 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabriel-Cavalcantte&bg_color=00000000&color=FF8C00&line=FF8C00&point=FFFFFF&area=true&area_color=FF8C00&hide_border=true" alt="Contribution activity graph">
 
 </div>
-
-##
-
-<div> 
-
-  
-  ![Snake animation](https://raw.githubusercontent.com/Gabriel-Cavalcantte/Gabriel-Cavalcantte/output/github-contribution-grid-snake.svg)
-</div>
