@@ -21,8 +21,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel-Cavalcantte&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats">
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabriel-Cavalcantte&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" alt="Top languages">
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gabriel-Cavalcantte&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats">
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gabriel-Cavalcantte&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" alt="Top languages">
 
 <img src="https://streak-stats.vercel.app?user=Gabriel-Cavalcantte&theme=gruvbox&hide_border=true" alt="GitHub streak">
 
