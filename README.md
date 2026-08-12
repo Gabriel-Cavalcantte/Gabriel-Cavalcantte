@@ -17,6 +17,17 @@
   <img align="center" alt="Robot-Framework" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png">
 </div>
 
+<h2 align="center"> 📊 GitHub Stats: </h2>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel-Cavalcantte&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats">
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabriel-Cavalcantte&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" alt="Top languages">
+
+<img src="https://streak-stats.vercel.app?user=Gabriel-Cavalcantte&theme=gruvbox&hide_border=true" alt="GitHub streak">
+
+</div>
+
 ##
 
 <div> 
